@@ -19,6 +19,7 @@ vim-fundamentals/
 │   └── vim-normal-insert.md
 └── exercises/
     └── demo.txt
+    └── ...
 ```
 
 ## How to Use
