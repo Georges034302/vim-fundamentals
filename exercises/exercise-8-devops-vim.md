@@ -190,7 +190,7 @@ Save all files and quit.
 
 ---
 
-# Solution (Strict, Assumption-Free)
+# Solution: 
 
 ## Step 1 — Open all files in one Vim session
 
