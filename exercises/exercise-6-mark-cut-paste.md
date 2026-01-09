@@ -1,4 +1,4 @@
-# Exercise Solution – Mark, Cut, and Paste in Vim
+# Exercise 6 – Mark, Cut, and Paste in Vim
 
 ## Exercise Objective
 
