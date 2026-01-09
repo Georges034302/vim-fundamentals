@@ -1,4 +1,4 @@
-# Exercise 3 – Pattern-Based Search and Replace in Vim
+# Exercise 4 – Pattern-Based Search and Replace in Vim
 
 ## Exercise Objective
 
