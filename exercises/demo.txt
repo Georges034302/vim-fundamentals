@@ -1,0 +1,20 @@
+TITLE: Vim Mark + Cut + Paste Exercise
+
+You will move a block of text using a mark.
+
+PASTE
+This line is where you must paste the block (after this line).
+
+Some unrelated text line 1
+Some unrelated text line 2
+
+START
+Line 1: This is inside the block.
+Line 2: Keep all these lines together.
+Line 3: You will cut this section.
+Line 4: And paste it after the PASTE line.
+END
+Some text after END that should not move.
+
+Footer line 1
+Footer line 2
