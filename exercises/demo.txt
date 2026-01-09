@@ -18,3 +18,13 @@ Some text after END that should not move.
 
 Footer line 1
 Footer line 2
+
+Statistics Section
+User count: 12
+Error threshold: 45
+Retry attempts: 99
+Timeout value: 30
+
+Audit Section
+Batch ID: 27
+Process code: 84
