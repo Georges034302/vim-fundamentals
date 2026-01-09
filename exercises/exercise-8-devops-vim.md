@@ -1,4 +1,4 @@
-# Exercise 8 – Advanced DevOps Vim Lab: Incident Patch + Sanitisation (Capstone)
+# Exercise 8 – Advanced DevOps Vim Lab: Incident Patch + Sanitisation 
 
 **Difficulty:** Advanced  
 **Time target:** 45–75 minutes  
