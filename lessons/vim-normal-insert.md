@@ -1,13 +1,4 @@
 # Vim Fundamentals – Normal & Insert Mode
-
-## Overview
-
-This lesson introduces **Vim fundamentals** using **Normal** and **Insert** modes only.
-It focuses on understanding Vim’s **modal editing model** and applying it to real editing tasks:
-navigation, insertion, cutting, copying, pasting, searching, and marking.
-
-The lesson is suitable for **beginners**, **classroom teaching**, and **server/SSH environments**.
-
 ---
 
 ## What Is Vim?
